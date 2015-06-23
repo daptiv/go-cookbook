@@ -2,6 +2,9 @@ name             "go"
 description      "Installs/Configures Go servers and agents"
 version          "0.2.4"
 
+maintainer       'Shawn Weitzel'
+maintainer_email 'shawn.weitzel@changepoint.com'
+
 supports "ubuntu", ">= 12.04"
 supports "centos"
 supports "windows"
